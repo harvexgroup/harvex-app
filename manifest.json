@@ -1,0 +1,9 @@
+{
+  "name": "HARVEX GROUP",
+  "short_name": "HARVEX",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fbf5",
+  "theme_color": "#174d22",
+  "description": "Agriculture's Future Marketplace"
+}
